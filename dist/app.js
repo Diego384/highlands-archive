@@ -6,6 +6,7 @@ catalog.push(...[{"t":"Marduk Commander 1","u":"https://www.myminifactory.com/ob
 catalog.push(...[{"t":"Steppe Goblins","u":"https://www.myminifactory.com/object/3d-print-steppe-goblins-highlands-miniatures-372648","i":"https://assets.myminifactory.com/object-images/6616501e8ab7c6.51173498/images/1000X1000-steppe-goblins.jpg"},{"t":"Sunland Ogres with Blunderbuss","u":"https://www.myminifactory.com/object/3d-print-sunland-ogres-with-blunderbuss-highlands-miniatures-513545","i":"https://assets.myminifactory.com/object-images/680227cd4631f6.11454056/images/1000X1000-SUNLAND_OGRES_BLUNDERBUSS_1.jpg"},{"t":"Marduk Cultists","u":"https://www.myminifactory.com/object/3d-print-marduk-cultists-highlands-miniatures-743898","i":"https://assets.myminifactory.com/object-images/6964d1537ef754.56507857/images/1000X1000-MARDUK_CULTIST_UNIT_1.jpg"},{"t":"Marduk Minotaurs","u":"https://www.myminifactory.com/object/3d-print-marduk-minotaurs-highlands-miniatures-743894","i":"https://assets.myminifactory.com/object-images/6964d009334921.00250502/images/1000X1000-MARDUK_MINOTAUR_UNIT.jpg"},{"t":"Kusarikku, Great Marduk Minotaur","u":"https://www.myminifactory.com/object/3d-print-kusarikku-great-marduk-minotaur-highlands-miniatures-743890","i":"https://assets.myminifactory.com/object-images/6964cf4f594f16.26486887/images/1000X1000-KUSARIKKU_1.jpg"},{"t":"Marduk Bull","u":"https://www.myminifactory.com/object/3d-print-marduk-bull-highlands-miniatures-743887","i":"https://assets.myminifactory.com/object-images/6964ceabb13517.69391111/images/1000X1000-MARDUK_BULL_1.jpg"},{"t":"Marduk Sorcerer","u":"https://www.myminifactory.com/object/3d-print-marduk-sorcerer-highlands-miniatures-743882","i":"https://assets.myminifactory.com/object-images/6964cb229fbe65.58450144/images/1000X1000-MARDUK_SORCERER_1.jpg"},{"t":"Blazing Icon of Marduk","u":"https://www.myminifactory.com/object/3d-print-blazing-icon-of-marduk-highlands-miniatures-723759","i":"https://assets.myminifactory.com/object-images/6937f0c0bfbdc4.84780067/images/1000X1000-BLAZING_ICON_OF_MARDUK_5.jpg"},{"t":"Sons of Marduk Cannon","u":"https://www.myminifactory.com/object/3d-print-sons-of-marduk-cannon-highlands-miniatures-723754","i":"https://assets.myminifactory.com/object-images/6937f021770ac9.80092005/images/1000X1000-SONS_OF_MARDUK_CANNON_4.jpg"},{"t":"Sons of Marduk Mortar and Rocket","u":"https://www.myminifactory.com/object/3d-print-sons-of-marduk-mortar-and-rocket-highlands-miniatures-723752","i":"https://assets.myminifactory.com/object-images/6937ee474fcdb5.84430440/images/1000X1000-MARDUK_MORTAR_1.jpg"},{"t":"Sunland Paymaster","u":"https://www.myminifactory.com/object/3d-print-sunland-paymaster-highlands-miniatures-725744","i":"https://assets.myminifactory.com/object-images/693c34f456fbf8.50311227/images/1000X1000-SUNLAND_PAYMASTER.jpg"},{"t":"Sons of Marduk Heavy Guard","u":"https://www.myminifactory.com/object/3d-print-sons-of-marduk-heavy-guard-highlands-miniatures-707757","i":"https://assets.myminifactory.com/object-images/6914c08a1097e7.02313150/images/1000X1000-MARDUK_HEAVY_GUARD_UNIT_1.jpg"},{"t":"Sons of Marduk Shooters","u":"https://www.myminifactory.com/object/3d-print-sons-of-marduk-shooters-highlands-miniatures-707750","i":"https://assets.myminifactory.com/object-images/6914bde143a424.78726069/images/1000X1000-MARDUK_SHOOTERS_UNIT_1.jpg"},{"t":"Sons of Marduk Warriors","u":"https://www.myminifactory.com/object/3d-print-sons-of-marduk-warriors-highlands-miniatures-707729","i":"https://assets.myminifactory.com/object-images/6914bc51c7e7a7.58315216/images/1000X1000-MARDUK_WARRIORS_UNIT_1.jpg"},{"t":"Ghosts Swarms","u":"https://www.myminifactory.com/object/3d-print-ghosts-swarms-highlands-miniatures-683891","i":"https://assets.myminifactory.com/object-images/68e7a0a2e9c623.60276145/images/1000X1000-GHOST_SWARM_UNIT_3.jpg"},{"t":"Bats Swarms","u":"https://www.myminifactory.com/object/3d-print-bats-swarms-highlands-miniatures-683889","i":"https://assets.myminifactory.com/object-images/68e79fcedb0809.94806751/images/1000X1000-BAT_SWARM_UNIT_2.jpg"},{"t":"Giant Bats","u":"https://www.myminifactory.com/object/3d-print-giant-bats-highlands-miniatures-683772","i":"https://assets.myminifactory.com/object-images/68e78ed5d007b5.31791815/images/1000X1000-GIANT_BATS_UNIT_1.jpg"},{"t":"Pit Bat","u":"https://www.myminifactory.com/object/3d-print-pit-bat-highlands-miniatures-683770","i":"https://assets.myminifactory.com/object-images/68e78e451737c0.19641131/images/1000X1000-PIT_BAT_4.jpg"},{"t":"Crypt Bats","u":"https://www.myminifactory.com/object/3d-print-crypt-bats-highlands-miniatures-683769","i":"https://assets.myminifactory.com/object-images/68e78dd01b3a31.77944340/images/1000X1000-CRYPT_BATS_UNIT_2.jpg"},{"t":"Giant Ghouls","u":"https://www.myminifactory.com/object/3d-print-giant-ghouls-highlands-miniatures-683768","i":"https://assets.myminifactory.com/object-images/68e78d0361d1d3.91175771/images/1000X1000-CRYPT_GHOULS_UNIT_4.jpg"},{"t":"Zombies","u":"https://www.myminifactory.com/object/3d-print-zombies-highlands-miniatures-683764","i":"https://assets.myminifactory.com/object-images/68e78bcf1c5636.76430112/images/1000X1000-ZOMBIES_1.jpg"},{"t":"Sunland General on Pegasus","u":"https://www.myminifactory.com/object/3d-print-sunland-general-on-pegasus-highlands-miniatures-513533","i":"https://assets.myminifactory.com/object-images/6802260870bc82.12121872/images/1000X1000-SUNLAND_GENERAL_ON_PEGASUS_1.jpg"},{"t":"High Mage of Sunland on Pegasus","u":"https://www.myminifactory.com/object/3d-print-high-mage-of-sunland-on-pegasus-highlands-miniatures-221625","i":"https://assets.myminifactory.com/object-images/626e64dd2af89/images/1000X1000-high-wizard-1.jpg"},{"t":"Battle Wizards","u":"https://www.myminifactory.com/object/3d-print-battle-wizards-highlands-miniatures-221617","i":"https://assets.myminifactory.com/object-images/626e5c948ed75/images/1000X1000-battle-mage-2-horse.jpg"},{"t":"The Gold Wagon","u":"https://www.myminifactory.com/object/3d-print-the-gold-wagon-highlands-miniatures-183442","i":"https://assets.myminifactory.com/object-images/612e8c1779e96/images/1000X1000-gold-wagon-1.jpg"}]);
 
 const categoryOrder = ['Orcs and Goblins', 'Feral Elves', 'Sewer Vermin', 'Sons of Marduk', 'Gallia', 'Dwarfs, Sons of Ymir', 'Aegean Elves', 'Sunland', 'Transilvanya', 'Eternal Dynasties', 'Altre collezioni'];
+const WHATSAPP_NUMBER = '';
 const categoryCounts = Object.fromEntries(categoryOrder.map(category => [category, 0]));
 
 function getCategory(title) {
@@ -35,7 +36,18 @@ const resultCount = document.querySelector('#result-count');
 const emptyState = document.querySelector('#empty-state');
 const searchInput = document.querySelector('#search-input');
 const clearSearch = document.querySelector('#clear-search');
+const cartTrigger = document.querySelector('#cart-trigger');
+const cartCount = document.querySelector('#cart-count');
+const cartPanel = document.querySelector('#cart-panel');
+const cartBackdrop = document.querySelector('#cart-backdrop');
+const cartClose = document.querySelector('#cart-close');
+const cartItems = document.querySelector('#cart-items');
+const cartEmpty = document.querySelector('#cart-empty');
+const cartSummaryCount = document.querySelector('#cart-summary-count');
+const whatsappButton = document.querySelector('#whatsapp-button');
+const cartFeedback = document.querySelector('#cart-feedback');
 let selectedCategory = 'Tutti';
+let cart = [];
 
 document.querySelector('#hero-count').textContent = catalogWithCategories.length;
 document.querySelector('#all-count').textContent = catalogWithCategories.length;
@@ -44,12 +56,87 @@ categoryCards.innerHTML = categoryOrder.map((category, index) => `<button class=
 filterButtons.innerHTML = categoryOrder.map(category => `<button class="filter-button" data-category="${category}">${category} <span>${categoryCounts[category]}</span></button>`).join('');
 const escapeHtml = value => value.replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' }[char]));
 
+function loadCart() {
+  try {
+    const saved = JSON.parse(localStorage.getItem('highlands-archive-cart') || '[]');
+    if (!Array.isArray(saved)) return [];
+    return catalogWithCategories.filter(item => saved.includes(item.u));
+  } catch {
+    return [];
+  }
+}
+
+function saveCart() {
+  try {
+    localStorage.setItem('highlands-archive-cart', JSON.stringify(cart.map(item => item.u)));
+  } catch {
+    // The selection still works for the current visit if browser storage is unavailable.
+  }
+}
+
+function updateCartControls() {
+  cartCount.textContent = cart.length;
+  cartTrigger.classList.toggle('has-items', cart.length > 0);
+  cartSummaryCount.textContent = `${cart.length} ${cart.length === 1 ? 'progetto' : 'progetti'}`;
+  whatsappButton.disabled = cart.length === 0;
+  document.querySelectorAll('[data-add-to-cart]').forEach(button => {
+    const item = catalogWithCategories.find(entry => entry.index === Number(button.dataset.itemIndex));
+    const isAdded = item && cart.some(entry => entry.u === item.u);
+    button.classList.toggle('is-added', Boolean(isAdded));
+    button.textContent = isAdded ? 'Nel carrello ✓' : 'Aggiungi al carrello';
+    button.setAttribute('aria-pressed', String(Boolean(isAdded)));
+    button.setAttribute('aria-label', `${isAdded ? 'Rimuovi' : 'Aggiungi'} ${item ? item.t : 'progetto'} ${isAdded ? 'dal carrello' : 'al carrello'}`);
+  });
+}
+
+function renderCart() {
+  cartItems.innerHTML = cart.map(item => `<div class="cart-item"><img src="${item.i}" alt="" loading="lazy" decoding="async" /><div class="cart-item-copy"><span>${escapeHtml(item.category)}</span><h3>${escapeHtml(item.t)}</h3><a href="${item.u}" target="_blank" rel="noreferrer">Vedi modello ↗</a></div><button class="cart-remove" type="button" data-remove-from-cart data-item-index="${item.index}" aria-label="Rimuovi ${escapeHtml(item.t)}">×</button></div>`).join('');
+  cartEmpty.hidden = cart.length !== 0;
+  if (cart.length === 0) cartFeedback.textContent = '';
+}
+
+function setCartOpen(open) {
+  cartPanel.classList.toggle('is-open', open);
+  cartPanel.setAttribute('aria-hidden', String(!open));
+  cartPanel.inert = !open;
+  cartBackdrop.hidden = !open;
+  cartTrigger.setAttribute('aria-expanded', String(open));
+  document.body.classList.toggle('cart-open', open);
+  if (open) cartClose.focus();
+}
+
+function toggleCart(index) {
+  const item = catalogWithCategories.find(entry => entry.index === index);
+  if (!item) return;
+  const isAlreadyAdded = cart.some(entry => entry.u === item.u);
+  cart = isAlreadyAdded ? cart.filter(entry => entry.u !== item.u) : [...cart, item];
+  saveCart();
+  updateCartControls();
+  renderCart();
+  cartFeedback.textContent = isAlreadyAdded ? `${item.t} rimosso dalla selezione.` : `${item.t} aggiunto alla selezione.`;
+  if (!isAlreadyAdded) setCartOpen(true);
+}
+
+function buildWhatsAppUrl() {
+  const message = [
+    'Ciao! Vorrei ricevere informazioni sui seguenti progetti Highlands:',
+    '',
+    ...cart.flatMap((item, index) => [`${index + 1}. ${item.t} — ${item.category}`, item.u]),
+    '',
+    'Grazie!'
+  ].join('\n');
+  const encodedMessage = encodeURIComponent(message);
+  const number = WHATSAPP_NUMBER.replace(/\D/g, '');
+  return number ? `https://wa.me/${number}?text=${encodedMessage}` : `https://wa.me/?text=${encodedMessage}`;
+}
+
 function renderCatalog() {
   const query = searchInput.value.trim().toLowerCase();
   const visible = catalogWithCategories.filter(item => (selectedCategory === 'Tutti' || item.category === selectedCategory) && item.t.toLowerCase().includes(query));
   resultCount.textContent = visible.length;
   emptyState.hidden = visible.length !== 0;
-  catalogGrid.innerHTML = visible.map(item => `<article class="model-card"><a href="${item.u}" target="_blank" rel="noreferrer" aria-label="Apri ${escapeHtml(item.t)} su MyMiniFactory"><div class="model-image-wrap"><img src="${item.i}" alt="${escapeHtml(item.t)}" loading="lazy" decoding="async" /><span class="card-number">${String(item.index).padStart(3, '0')}</span><span class="card-category">${item.category}</span></div><div class="model-info"><h3>${escapeHtml(item.t)}</h3><span class="model-link">Apri progetto <span>↗</span></span></div></a></article>`).join('');
+  catalogGrid.innerHTML = visible.map(item => `<article class="model-card"><a class="model-card-link" href="${item.u}" target="_blank" rel="noreferrer" aria-label="Apri ${escapeHtml(item.t)} su MyMiniFactory"><div class="model-image-wrap"><img src="${item.i}" alt="${escapeHtml(item.t)}" loading="lazy" decoding="async" /><span class="card-number">${String(item.index).padStart(3, '0')}</span><span class="card-category">${escapeHtml(item.category)}</span></div><div class="model-info"><h3>${escapeHtml(item.t)}</h3><span class="model-link">Apri progetto <span>↗</span></span></div></a><div class="model-card-actions"><button class="add-button" type="button" data-add-to-cart data-item-index="${item.index}" aria-pressed="false">Aggiungi al carrello</button></div></article>`).join('');
+  updateCartControls();
 }
 
 function setCategory(category) {
@@ -60,11 +147,28 @@ function setCategory(category) {
 }
 
 document.addEventListener('click', event => {
+  const addTrigger = event.target.closest('[data-add-to-cart]');
+  if (addTrigger) {
+    toggleCart(Number(addTrigger.dataset.itemIndex));
+    return;
+  }
+  const removeTrigger = event.target.closest('[data-remove-from-cart]');
+  if (removeTrigger) {
+    toggleCart(Number(removeTrigger.dataset.itemIndex));
+    return;
+  }
   const trigger = event.target.closest('[data-category]');
   if (trigger) setCategory(trigger.dataset.category);
 });
 searchInput.addEventListener('input', renderCatalog);
 clearSearch.addEventListener('click', () => { searchInput.value = ''; searchInput.focus(); renderCatalog(); });
+cartTrigger.addEventListener('click', () => setCartOpen(true));
+cartClose.addEventListener('click', () => setCartOpen(false));
+cartBackdrop.addEventListener('click', () => setCartOpen(false));
+whatsappButton.addEventListener('click', () => window.open(buildWhatsAppUrl(), '_blank', 'noopener,noreferrer'));
+document.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && cartPanel.classList.contains('is-open')) setCartOpen(false);
+});
 
 const feature = catalogWithCategories[0];
 document.querySelector('#feature-image').src = feature.i;
@@ -73,4 +177,8 @@ document.querySelector('#feature-title').textContent = feature.t;
 document.querySelector('#feature-link').href = feature.u;
 document.querySelector('#feature-link').target = '_blank';
 document.querySelector('#feature-link').rel = 'noreferrer';
+cart = loadCart();
+setCartOpen(false);
 renderCatalog();
+renderCart();
+updateCartControls();

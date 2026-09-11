@@ -19,7 +19,14 @@
         <a href="#catalogo">Catalogo</a>
         <a href="#categorie">Categorie</a>
       </nav>
-      <a class="header-link" href="https://www.myminifactory.com/users/Highlandsminis" target="_blank" rel="noreferrer">Highlands su MMF <span>↗</span></a>
+      <div class="header-actions">
+        <a class="header-link" href="https://www.myminifactory.com/users/Highlandsminis" target="_blank" rel="noreferrer">Highlands su MMF <span>↗</span></a>
+        <button id="cart-trigger" class="cart-trigger" type="button" aria-controls="cart-panel" aria-expanded="false">
+          <span class="cart-trigger-icon" aria-hidden="true">+</span>
+          <span>Carrello</span>
+          <span id="cart-count" class="cart-badge" aria-live="polite">0</span>
+        </button>
+      </div>
     </header>
 
     <main id="top">
@@ -74,6 +81,25 @@
         <p id="empty-state" class="empty-state" hidden>Nessun progetto corrisponde alla ricerca.</p>
       </section>
     </main>
+
+    <div id="cart-backdrop" class="cart-backdrop" hidden></div>
+    <aside id="cart-panel" class="cart-panel" role="dialog" aria-modal="true" aria-labelledby="cart-title" aria-hidden="true">
+      <div class="cart-header">
+        <div><p class="eyebrow">03 / SELEZIONE</p><h2 id="cart-title">Il tuo carrello.</h2></div>
+        <button id="cart-close" class="cart-close" type="button" aria-label="Chiudi la richiesta">×</button>
+      </div>
+      <div id="cart-items" class="cart-items" aria-live="polite"></div>
+      <div id="cart-empty" class="cart-empty">
+        <span class="cart-empty-mark">+</span>
+        <h3>Ancora nessun modello.</h3>
+        <p>Aggiungi i progetti che vuoi valutare insieme e prepara una richiesta.</p>
+      </div>
+      <div class="cart-footer">
+        <div class="cart-summary"><strong id="cart-summary-count">0 progetti</strong><span>Nessun prezzo visualizzato</span></div>
+        <button id="whatsapp-button" class="button button-whatsapp" type="button" disabled>Chiedi informazioni su WhatsApp <span>↗</span></button>
+        <p id="cart-feedback" class="cart-feedback" role="status"></p>
+      </div>
+    </aside>
 
     <footer class="site-footer section-wrap">
       <div class="footer-brand"><span class="brand-mark">H</span><div><strong>HIGHLANDS // ARCHIVE</strong><p>Una libreria personale di progetti da stampare.</p></div></div>
