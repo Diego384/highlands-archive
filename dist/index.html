@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101312" />
+    <meta name="description" content="Catalogo personale dei progetti Highlands Miniatures presenti nella libreria MyMiniFactory." />
+    <title>HIGHLANDS // ARCHIVE</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23d8f36b'/%3E%3Cpath d='M18 46V18h8v11h12V18h8v28h-8V37H26v9z' fill='%23101312'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Highlands Archive, torna all'inizio">
+        <span class="brand-mark">H</span>
+        <span class="brand-copy"><strong>HIGHLANDS</strong><small>// ARCHIVE</small></span>
+      </a>
+      <nav class="main-nav" aria-label="Navigazione principale">
+        <a href="#catalogo">Catalogo</a>
+        <a href="#categorie">Categorie</a>
+      </nav>
+      <a class="header-link" href="https://www.myminifactory.com/users/Highlandsminis" target="_blank" rel="noreferrer">Highlands su MMF <span>↗</span></a>
+    </header>
+
+    <main id="top">
+      <section class="hero section-wrap" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="eyebrow-dot"></span> LIBRERIA PERSONALE · AGGIORNATA DA MYMINIFACTORY</p>
+          <h1 id="hero-title">Modelli che<br /><em>meritano</em> di essere stampati.</h1>
+          <p class="hero-intro">Una raccolta visiva dei progetti Highlands Miniatures che ho nella mia libreria: eserciti, eroi, creature e macchine pronti a diventare materia.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#catalogo">Esplora il catalogo <span>↓</span></a>
+            <a class="text-link" href="https://www.myminifactory.com/users/Highlandsminis" target="_blank" rel="noreferrer">Vedi il creator <span>↗</span></a>
+          </div>
+          <div class="hero-stats" aria-label="Riepilogo catalogo">
+            <div><strong id="hero-count">103</strong><span>progetti<br />Highlands</span></div>
+            <div><strong id="hero-categories">06</strong><span>categorie<br />curate</span></div>
+            <div><strong>01</strong><span>libreria<br />personale</span></div>
+          </div>
+        </div>
+        <div class="hero-feature" aria-label="Progetto in evidenza">
+          <div class="feature-image-wrap">
+            <img id="feature-image" src="" alt="" />
+            <div class="feature-shade"></div>
+            <span class="feature-stamp">IN EVIDENZA<br /><b>001</b></span>
+            <span class="feature-corner">H/M</span>
+          </div>
+          <div class="feature-meta">
+            <div><span class="mini-label">PROGETTO DELLA LIBRERIA</span><h2 id="feature-title">Mounted Norse Raiders</h2></div>
+            <a id="feature-link" class="round-arrow" href="#catalogo" aria-label="Apri il progetto in evidenza">↗</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="category-section section-wrap" id="categorie" aria-labelledby="category-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">01 / ORIENTARSI</p><h2 id="category-title">Scegli una direzione.</h2></div>
+          <p class="section-note">Dalle orde del nord ai culti di Marduk, una mappa rapida per trovare la prossima stampa.</p>
+        </div>
+        <div id="category-cards" class="category-grid"></div>
+      </section>
+
+      <section class="catalog-section section-wrap" id="catalogo" aria-labelledby="catalog-title">
+        <div class="catalog-toolbar">
+          <div class="section-heading catalog-heading"><div><p class="eyebrow">02 / CATALOGARE</p><h2 id="catalog-title">Tutti i progetti.</h2></div></div>
+          <label class="search-box"><span class="sr-only">Cerca nel catalogo</span><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Cerca un modello…" autocomplete="off" /><button id="clear-search" type="button" aria-label="Pulisci ricerca">×</button></label>
+        </div>
+        <div class="filter-row" role="group" aria-label="Filtra per categoria">
+          <button class="filter-button is-active" data-category="Tutti">Tutti <span id="all-count">103</span></button>
+          <div id="filter-buttons"></div>
+        </div>
+        <div class="result-line"><span id="result-count">103</span> progetti visualizzati <span class="result-rule"></span><span class="result-hint">seleziona una card per aprire il progetto originale</span></div>
+        <div id="catalog-grid" class="catalog-grid" aria-live="polite"></div>
+        <p id="empty-state" class="empty-state" hidden>Nessun progetto corrisponde alla ricerca.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer section-wrap">
+      <div class="footer-brand"><span class="brand-mark">H</span><div><strong>HIGHLANDS // ARCHIVE</strong><p>Una libreria personale di progetti da stampare.</p></div></div>
+      <div class="footer-right"><span>DATI DALLA LIBRERIA MYMINIFACTORY</span><a href="https://www.myminifactory.com/users/Highlandsminis" target="_blank" rel="noreferrer">Highlands Miniatures ↗</a></div>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
